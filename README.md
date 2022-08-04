@@ -63,7 +63,7 @@ After learning about Linux command line commands, I learned a few useful feature
 
 A very interesting topic for me.
 
-As you study various technologies for developing WEB applications, you have to constantly come across HTTP. And this topic is not easy and a little confusing at first glance.
+As you study various technologies for developing WEB applications, you have to constantly come across HTTP. And this topic is not easy and a little confusing at first glance. 
 
 I already knew about the basic server response codes, request and response headers. I liked the article because it covers different aspects of the HTTP protocol from beginning After reading it, all the knowledge that was already there was consolidated and expanded.
 
