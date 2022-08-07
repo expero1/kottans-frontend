@@ -89,3 +89,25 @@ Need to reed again
 [HTTP Proptocol part 2(ukrainian)](https://code.tutsplus.com/uk/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155)
 
 [httpbin](https://httpbin.org/)
+
+---
+
+## Git Collaboration
+
+---
+
+I have little experience with git and at the moment, and it's limited to working with local repositories and pushing to a remote repository.
+After going through the lessons on Collaboration, Code Review and Continuous Integration, I realized that I had mastered only a small part of the available git and github features for developing applications.
+
+For me were new and interesting the principles of creating a pull request and the general principles of collaborating on a project, when various developers make their changes and send them to the team of core developers for approval.
+
+Also in the future, it is necessary to learn the principles of Code Review in more detail, this helps not only to make the code better, but also allows use and implement best practices in my own code, also it is allow do not make mistakes.
+
+The lessons on Continuous Integration/Continous Delivery tools were interesting to me, because these are modern software development techniques that used in many software companies, knowledge and understanding of these techniques is very important when working on a large project.
+
+What I understand At this stage - The topics of these lessons are quite complex, I need to read additional articles, and it is also very important to get practical experience in applying them, so I want to try to participate in a project that fully uses the tools of git and github for collaborative development.
+
+![Git Collaboration Image 1](./task_git_collaboration/git_collaboration-1.jpg)
+![Git Collaboration Image 2](./task_git_collaboration/git_collaboration-2.jpg)
+![Git Collaboration Image 3](./task_git_collaboration/git_collaboration-3.jpg)
+![Git Collaboration Image 4](./task_git_collaboration/git_collaboration-4.jpg)
