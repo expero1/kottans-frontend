@@ -36,4 +36,5 @@ A good tutorial that shows all the basic concepts of Git step by step on a small
 ![Git Basics image 1](img/stage0-git-img1.jpg)
 ![Git Basics image 2](img/stage0-git-img2.jpg)
 ![Git Basics image 3](img/stage0-git-img3.jpg)
-![Git Basics image 4](img/stage0-git-img4.jpg)
+![Git Basics image 4](img/stage0-git-img4.jpg) 
+
