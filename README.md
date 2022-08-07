@@ -36,5 +36,56 @@ A good tutorial that shows all the basic concepts of Git step by step on a small
 ![Git Basics image 1](img/stage0-git-img1.jpg)
 ![Git Basics image 2](img/stage0-git-img2.jpg)
 ![Git Basics image 3](img/stage0-git-img3.jpg)
-![Git Basics image 4](img/stage0-git-img4.jpg) 
+![Git Basics image 4](img/stage0-git-img4.jpg)
 
+---
+
+## Linux CLI, and HTTP
+
+### Linux CLI
+
+I've been working on Linux for a while, it's necessary for my job of setting up the server and sites. Most of the basic commands for working with the file system, user rights, system configuration, reading logs are known to me. If something is not clear or not known, I find information on the Internet.
+
+For some time now, I began to understand the full power of the Linux command line and its importance in developing, debugging, and configuring a server.
+
+Now I am learning vim. Although it is difficult to learn, it is nevertheless a very powerful editor that does not require a graphical interface to work, it is enough tto connect to the server via SSH and the command line for edit any text file.
+
+After learning about Linux command line commands, I learned a few useful features that I didn't know about before. For example, you can manage file permissions using abbreviations like chmod o+r. I used to struggle with number combinations like chmod 0755. Now I'm also learning the power of the grep command to find information in files, such as server logs. Very comfortably.
+
+![Linux CLI 1](./task_linux_cli/stage0-linux-cli-1.jpg)
+![Linux CLI 2](./task_linux_cli/stage0-linux-cli-2.jpg)
+![Linux CLI 3](./task_linux_cli/stage0-linux-cli-3.jpg)
+![Linux CLI 3](./task_linux_cli/stage0-linux-cli-4.jpg)
+
+---
+
+### HTTP
+
+A very interesting topic for me.
+
+As you study various technologies for developing WEB applications, you have to constantly come across HTTP. And this topic is not easy and a little confusing at first glance. 
+
+I already knew about the basic server response codes, request and response headers. I liked the article because it covers different aspects of the HTTP protocol from beginning After reading it, all the knowledge that was already there was consolidated and expanded.
+
+What was new is information about the structure of the HTTP request and response, the structure and sequence of the header, body, used delimiter. In fact, the request and response is just plain text. More interesting was the information about the different types of requests. I know some about GET and POST, I have to work with them when create little projects. Heard about PUT, DELETE, worked with them a little. And it was interesting to read about the rarely used HEAD, OPTIONS, TRACE. I was surprised to learn that HTTP is a very versatile protocol, you may set your own headers, the main thing is that the receive side understand them.
+
+I learned that the protocol is able to maintain a connection after a file transfer.
+
+A topic that I did not fully know, but which is very important - authentication. The article explains it well.
+
+Caching, how HTTPS works and SSL certificates - just to name a few.
+
+I just reviewed the article again and realized that it needs to be read at least once again, there is a lot of useful information.
+
+In the future, it is necessary to consolidate the information received in practice, this helps to remember the material. Now I use Chrome and Firefox debug tools, a python and javascript debugger, as well as special sites like [httpbin](https://httpbin.org/) to analyze requests and responses. I want to learn the traffic analysis tools - Fiddler.
+
+I want to take a closer look at authentication, in particular, with its implementation in various frameworks and libraries (Django, Express JS etc), since I didn’t have to use it in close before.
+
+### Useful Links
+
+Need to reed again
+
+[HTTP Proptocol part 1(ukrainian)](https://code.tutsplus.com/uk/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
+[HTTP Proptocol part 2(ukrainian)](https://code.tutsplus.com/uk/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155)
+
+[httpbin](https://httpbin.org/)
