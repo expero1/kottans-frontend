@@ -33,10 +33,10 @@ I found this link on Kottans course. This is a useful resource for understanding
 [Git HowTo](https://githowto.com/)
 A good tutorial that shows all the basic concepts of Git step by step on a small project. I like this site.
 
-![Git Basics image 1](img/stage0-git-img1.jpg)
-![Git Basics image 2](img/stage0-git-img2.jpg)
-![Git Basics image 3](img/stage0-git-img3.jpg)
-![Git Basics image 4](img/stage0-git-img4.jpg)
+![Git Basics image 1](task_git_basics/stage0-git-img1.jpg)
+![Git Basics image 2](task_git_basics/stage0-git-img2.jpg)
+![Git Basics image 3](task_git_basics/stage0-git-img3.jpg)
+![Git Basics image 4](task_git_basics/stage0-git-img4.jpg)
 
 ---
 
