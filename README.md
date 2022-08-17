@@ -94,7 +94,6 @@ Need to reed again
 
 ## Git Collaboration
 
----
 
 I have little experience with git and at the moment, and it's limited to working with local repositories and pushing to a remote repository.
 After going through the lessons on Collaboration, Code Review and Continuous Integration, I realized that I had mastered only a small part of the available git and github features for developing applications.
@@ -116,7 +115,6 @@ What I understand At this stage - The topics of these lessons are quite complex,
 
 ## HTML and CSS Intro
 
----
 
 HTML and CSS are the foundation of web development. And at first glance, the topic is not complicated. But the application requires taking into account many nuances and continuous practice.
 
@@ -143,7 +141,7 @@ For now, HTML and CSS have many new features, you can study them for years and l
 
 ---
 ## Responsive Web Design
----
+
 
 Designing a website for mobile devices is standard nowadays. Therefore, knowledge of responsive web design techniques is very important.
 
@@ -155,10 +153,31 @@ Shortly, I want to pay more attention to the practical application of responsive
 
 ---
 # HTML CSS Popup
----
+
 Practice in HTML And CSS
 
 [Demo](https://expero1.github.io/html-css-popup/)
 [Code base](https://github.com/expero1/html-css-popup)
 
+---
+## JS Basics
+
+
+I have already studied the basics of javascript before, I did not learn anything new. Much more interesting is the execution context. I do not fully understand why this in some cases points to the object itself, in which it is applied, and in others to the one in which it is called. I want to study this topic in more detail shortly.
+
+It was interesting to learn the basics of functional programming in javascript, callback functions, and the concept of first-class and higher-order functions.
+
+I also want to understand the concept of closure in javascript and learn more about the features that have been added to ES6.
+
+It takes a lot of practice to fully utilize all the possibilities, which is what I intend to do.
+
+![JS Basics](./task_js_basics/js_basics-1.jpg)
+![JS Basics](./task_js_basics/js_basics-2.jpg)
+![JS Basics](./task_js_basics/js_basics-3.jpg)
+![JS Basics](./task_js_basics/js_basics-4.jpg)
+![JS Basics](./task_js_basics/js_basics-5.jpg)
+![JS Basics](./task_js_basics/js_basics-6.jpg)
+![JS Basics](./task_js_basics/js_basics-7.jpg)
+![JS Basics](./task_js_basics/js_basics-8.jpg)
+![JS Basics](./task_js_basics/js_basics-9.jpg)
 
