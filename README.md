@@ -111,3 +111,32 @@ What I understand At this stage - The topics of these lessons are quite complex,
 ![Git Collaboration Image 2](./task_git_collaboration/git_collaboration-2.jpg)
 ![Git Collaboration Image 3](./task_git_collaboration/git_collaboration-3.jpg)
 ![Git Collaboration Image 4](./task_git_collaboration/git_collaboration-4.jpg)
+
+---
+
+## HTML and CSS Intro
+
+---
+
+HTML and CSS are the foundation of web development. And at first glance, the topic is not complicated. But the application requires taking into account many nuances and continuous practice.
+
+After listening to the lessons, I learned more about semantic tags. Until now, I have heard about them, but in practice, it was not necessary to apply. This all applies to HTML5, but I mostly studied the HTML4 standard. I read additional articles on MDN to understand all aspects of the application of new tags.
+
+Also, I learn new tags for embedding media elements on the page - video, audio, picture
+
+Studied in detail the tags for table formatting like thead, tfoot
+
+An extensive topic is forms. I tried to figure out the uses of the label tag, and the states of the input tag.
+
+Separately, I focused on modern layout methods - flexbox and especially grid, now it is possible to layout adaptive pages easily and quickly.
+
+Also, box-model is interesting, how the dimensions of each element are calculated. Recently, there have also been options for working with fonts in CSS, and studied how they can be downloaded from a CDN, and not just locally. This provides new opportunities for the introduction of their fonts when laying out the page.
+
+For now, HTML and CSS have many new features, you can study them for years and learn new things all the time. Shortly I want to practice learning layout, semantic tags, and adaptive layout. This knowledge is one of the most important for a web developer.
+
+![HTML and CSS Intro](./task_html_css_intro/html_css_intro-1.jpg)
+![HTML and CSS Intro](./task_html_css_intro/html_css_intro-2.jpg)
+![HTML and CSS Intro](./task_html_css_intro/html_css_intro-3.jpg)
+![HTML and CSS Intro](./task_html_css_intro/html_css_intro-3-1.jpg)
+![HTML and CSS Intro](./task_html_css_intro/html_css_intro-4.jpg)
+![HTML and CSS Intro](./task_html_css_intro/html_css_intro-4-1.jpg)
