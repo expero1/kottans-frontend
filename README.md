@@ -140,3 +140,16 @@ For now, HTML and CSS have many new features, you can study them for years and l
 ![HTML and CSS Intro](./task_html_css_intro/html_css_intro-3-1.jpg)
 ![HTML and CSS Intro](./task_html_css_intro/html_css_intro-4.jpg)
 ![HTML and CSS Intro](./task_html_css_intro/html_css_intro-4-1.jpg)
+
+---
+## Responsive Web Design
+
+---
+
+Designing a website for mobile devices is standard nowadays. Therefore, knowledge of responsive web design techniques is very important.
+
+After studying this section, I learn in detail how to properly create sites that display correctly on different devices. First of all, it is media queries, adaptive layouts - Flexbox and Grid. Also, I learn how popular CSS frameworks, like Bootstrap, make their work.
+
+Shortly, I want to pay more attention to the practical application of responsive layouts, especially Grid. At the moment, it is more difficult for me to understand how it works.
+![Responsive Web Design](./task_responsive_web_design/responsive_web_design-1.jpg)
+![Responsive Web Design](./task_responsive_web_design/responsive_web_design-2.jpg)
