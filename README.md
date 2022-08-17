@@ -143,7 +143,6 @@ For now, HTML and CSS have many new features, you can study them for years and l
 
 ---
 ## Responsive Web Design
-
 ---
 
 Designing a website for mobile devices is standard nowadays. Therefore, knowledge of responsive web design techniques is very important.
@@ -153,3 +152,13 @@ After studying this section, I learn in detail how to properly create sites that
 Shortly, I want to pay more attention to the practical application of responsive layouts, especially Grid. At the moment, it is more difficult for me to understand how it works.
 ![Responsive Web Design](./task_responsive_web_design/responsive_web_design-1.jpg)
 ![Responsive Web Design](./task_responsive_web_design/responsive_web_design-2.jpg)
+
+---
+# HTML CSS Popup
+---
+Practice in HTML And CSS
+
+[Demo](https://expero1.github.io/html-css-popup/)
+[Code base](https://github.com/expero1/html-css-popup)
+
+
