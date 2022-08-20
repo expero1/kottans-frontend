@@ -157,6 +157,7 @@ Shortly, I want to pay more attention to the practical application of responsive
 Practice in HTML And CSS
 
 [Demo](https://expero1.github.io/html-css-popup/)
+
 [Code base](https://github.com/expero1/html-css-popup)
 
 ---
@@ -178,6 +179,5 @@ It takes a lot of practice to fully utilize all the possibilities, which is what
 ![JS Basics](./task_js_basics/js_basics-5.jpg)
 ![JS Basics](./task_js_basics/js_basics-6.jpg)
 ![JS Basics](./task_js_basics/js_basics-7.jpg)
-![JS Basics](./task_js_basics/js_basics-8.jpg)
 ![JS Basics](./task_js_basics/js_basics-9.jpg)
 
