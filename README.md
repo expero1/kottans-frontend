@@ -140,6 +140,10 @@ For now, HTML and CSS have many new features, you can study them for years and l
 ![HTML and CSS Intro](./task_html_css_intro/html_css_intro-4-1.jpg)
 
 ---
+### Useful links about HTML and CSS 
+[Why You Need to Stop using tags in css](https://frontstuff.io/you-need-to-stop-targeting-tags-in-css)
+
+---
 ## Responsive Web Design
 
 
