@@ -184,4 +184,19 @@ It takes a lot of practice to fully utilize all the possibilities, which is what
 ![JS Basics](./task_js_basics/js_basics-6.jpg)
 ![JS Basics](./task_js_basics/js_basics-7.jpg)
 ![JS Basics](./task_js_basics/js_basics-9.jpg)
+---
+## DOM
+---
+Manipulating the DOM tree is one of the fundamental and essential features of Javascript. It builds the work of all modern WEB-frameworks, such as REACT and single-page applications.
 
+This topic was not new to me. I've run into her before. But when manipulating the DOM tree during the learning phase, constant practice is needed. This is the only way to remember all the techniques and practices of application.
+
+In principle, third-party libraries allow you to modify the DOM tree. But understanding the operation of all mechanisms is also necessary. In addition, it allows you to make the code more compact and faster.
+
+Since building a tree requires a lot of resources, and if they are thoughtlessly used, it can create a heavy load on the browser and slow down the WEB application. Therefore, in the near future, I plan to practice creating single-page applications using the knowledge gained.
+
+[DEMO](https://expero1.github.io/dom-js/) | [CODE](https://github.com/expero1/dom-js)
+
+![DOM](./task_js_dom/task_dom_js_1.jpg)
+
+![DOM](./task_js_dom/task_dom_js_2.jpg)
