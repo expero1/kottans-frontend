@@ -200,3 +200,11 @@ Since building a tree requires a lot of resources, and if they are thoughtlessly
 ![DOM](./task_js_dom/task_dom_js_1.jpg)
 
 ![DOM](./task_js_dom/task_dom_js_2.jpg)
+
+---
+## A Tiny JS World
+---
+
+I've come across OOP in Javascript before. But quite a bit, in general terms. After this tutorial, I figured out the methods of using objects in Javascript. Applied the Factory pattern to generate various objects.
+
+[DEMO](https://expero1.github.io/a-tiny-JS-world/) | [CODE](https://github.com/expero1/a-tiny-JS-world/tree/expero1)
