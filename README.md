@@ -208,3 +208,12 @@ Since building a tree requires a lot of resources, and if they are thoughtlessly
 I've come across OOP in Javascript before. But quite a bit, in general terms. After this tutorial, I figured out the methods of using objects in Javascript. Applied the Factory pattern to generate various objects.
 
 [DEMO](https://expero1.github.io/a-tiny-JS-world/) | [CODE](https://github.com/expero1/a-tiny-JS-world/tree/expero1)
+
+---
+## OOP exercise
+---
+After studying the basics of object-oriented programming in Javascript, I learned how prototype concept works, and how the very principle of inheritance works in Javascript.
+
+In the future, I'm going to use the learned material in practice, since these techniques are often used when developing large applications.
+
+[DEMO](https://expero1.github.io/a-tiny-JS-world/) | [CODE](https://github.com/expero1/a-tiny-JS-world/tree/using-oop)
