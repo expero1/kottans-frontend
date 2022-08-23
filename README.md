@@ -158,11 +158,14 @@ Shortly, I want to pay more attention to the practical application of responsive
 ---
 ## HTML CSS Popup
 
-Practice in HTML And CSS
+After studying the materials of this lesson, I learned an interesting technique for creating a full-fledged pop-up menu without using Javascript.
 
-[Demo](https://expero1.github.io/html-css-popup/)
+I also got practical experience in layout using Flexbox and  Grid, since up to this point I did not know all the features of Grid. Now I need to practice to consolidate the result.
 
-[Code base](https://github.com/expero1/html-css-popup)
+It was also my first experience of passing Code Review. Thanks to the reviewer Alexander @A-Ostrovnyy for patience, I tried to fix all the remarks. Code Review is a great technique for fixing bugs and learning good practices in code. It is also a way to learn new knowledge and get new experience, so in the near future I will try to make the Code Review.
+
+
+[Demo](https://expero1.github.io/html-css-popup/) | [Code base](https://github.com/expero1/html-css-popup)
 
 ---
 ## JS Basics
@@ -184,7 +187,8 @@ It takes a lot of practice to fully utilize all the possibilities, which is what
 ![JS Basics](./task_js_basics/js_basics-6.jpg)
 ![JS Basics](./task_js_basics/js_basics-7.jpg)
 ![JS Basics](./task_js_basics/js_basics-9.jpg)
----
+
+
 ## DOM
 ---
 Manipulating the DOM tree is one of the fundamental and essential features of Javascript. It builds the work of all modern WEB-frameworks, such as REACT and single-page applications.
@@ -201,7 +205,7 @@ Since building a tree requires a lot of resources, and if they are thoughtlessly
 
 ![DOM](./task_js_dom/task_dom_js_2.jpg)
 
----
+
 ## A Tiny JS World
 ---
 
@@ -209,7 +213,7 @@ I've come across OOP in Javascript before. But quite a bit, in general terms. Af
 
 [DEMO](https://expero1.github.io/a-tiny-JS-world/) | [CODE](https://github.com/expero1/a-tiny-JS-world/tree/expero1)
 
----
+
 ## OOP exercise
 ---
 After studying the basics of object-oriented programming in Javascript, I learned how prototype concept works, and how the very principle of inheritance works in Javascript.
